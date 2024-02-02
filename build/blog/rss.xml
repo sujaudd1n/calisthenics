@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Calisthenics Blog</title>
+        <link>https://sujaudd1n.github.io/calisthenics/blog</link>
+        <description>Calisthenics Blog</description>
+        <lastBuildDate>Sun, 07 Jan 2024 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Starting of Open Source Calisthenics Guide]]></title>
+            <link>https://sujaudd1n.github.io/calisthenics/blog/2024/01/07/open-source-calisthenics-guide</link>
+            <guid>https://sujaudd1n.github.io/calisthenics/blog/2024/01/07/open-source-calisthenics-guide</guid>
+            <pubDate>Sun, 07 Jan 2024 00:00:00 GMT</pubDate>
+            <description><![CDATA[Starting of Open Source Calisthenics Guide]]></description>
+            <content:encoded><![CDATA[<p>Open Calisthenics.</p>]]></content:encoded>
+            <category>First blog</category>
+            <category>Starting</category>
+        </item>
+    </channel>
+</rss>
