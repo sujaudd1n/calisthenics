@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcalisthenics=self.webpackChunkcalisthenics||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Starting of Open Source Calisthenics Guide","permalink":"/calisthenics/blog/2024/01/07/open-source-calisthenics-guide","unlisted":false}]}')}}]);

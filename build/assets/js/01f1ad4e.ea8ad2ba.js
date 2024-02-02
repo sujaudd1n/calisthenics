@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcalisthenics=self.webpackChunkcalisthenics||[]).push([[949],{9679:s=>{s.exports=JSON.parse('{"label":"First blog","permalink":"/blog/tags/first-blog","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);

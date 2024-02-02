@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcalisthenics=self.webpackChunkcalisthenics||[]).push([[130],{9748:s=>{s.exports=JSON.parse('[{"label":"First blog","permalink":"/calisthenics/blog/tags/first-blog","count":1},{"label":"Starting","permalink":"/calisthenics/blog/tags/starting","count":1}]')}}]);
